@@ -5,5 +5,6 @@ public class Main {
         baseOfMath.getClass();
         System.out.println();
 
+
     }
 }

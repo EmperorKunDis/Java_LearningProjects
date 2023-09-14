@@ -8,5 +8,6 @@ public class BaseOfMath {
 
     public static void run() {
 
+
     }
 }
